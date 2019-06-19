@@ -16,3 +16,5 @@ Reported as https://github.com/aspnet/EntityFrameworkCore/issues/15794
 Demonstrates the behavior of a `SortedSet` entity collection that after
 clearing and adding new entries, looses some of its entries after calling
 `SaveChanges()`.
+
+Reported as https://github.com/aspnet/EntityFrameworkCore/issues/16161
