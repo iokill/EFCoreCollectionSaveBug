@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreCollectionSaveBug", "EFCoreCollectionSaveBug\EFCoreCollectionSaveBug.csproj", "{776AC912-4ED5-4B7E-917F-5AAA6ED7B676}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreSortedSetTestCase", "EFCoreSortedSetTestCase\EFCoreSortedSetTestCase.csproj", "{F6C3A6D5-4F3B-4585-870A-E1D08CFF0511}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{776AC912-4ED5-4B7E-917F-5AAA6ED7B676}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{776AC912-4ED5-4B7E-917F-5AAA6ED7B676}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{776AC912-4ED5-4B7E-917F-5AAA6ED7B676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C3A6D5-4F3B-4585-870A-E1D08CFF0511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C3A6D5-4F3B-4585-870A-E1D08CFF0511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C3A6D5-4F3B-4585-870A-E1D08CFF0511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C3A6D5-4F3B-4585-870A-E1D08CFF0511}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
